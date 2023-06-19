@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.logo{
+	width: 150px;
+    display:block;
+}
+
+h1{
+	color:black;
+	padding: 10;
+	margin: 50;
+    text-align: center;
+	text-decoration: underline;
+}
+
+h2{
+	color:black;
+	padding: 10;
+	margin: 50;
+    text-align: center;
+	text-decoration: underline;
+}
+
+
+.gap-1{
+	display:;
+	justify-content: space-between;
+	margin-right: 100px;
+	gap: 50px;
+}
+
+.body{
+    background-image: url(../Imagenes/imgfon.jpg);
+}
+
+.tarjetaimg{
+	width: 400px;
+}
+
+.tarjetitas{
+	display: flex;
+	padding: 60px;
+	gap: 30px;
+	grid-gap: 30px;
+}
+
+.tarjeta{
+	border-radius: 30px;
+	overflow: hidden;
+	gap: 40px;
+	grid-gap: 40px;
+}
+
+.letratar{
+	background-color: white;
+}
+
+.bombonesflex{
+	display: flex;
+	padding: 60px;
+	gap: 30px;
+	grid-gap: 30px;
+}
+
+.bf{
+	border-radius: 30px;
+	overflow: hidden;
+	gap: 40px;
+	grid-gap: 40px;
+}
+
+.bfimgg{
+	width: 330px;
+}
+
+.letratar1{
+	background-color: white;
+}
