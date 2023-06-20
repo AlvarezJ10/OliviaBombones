@@ -51,6 +51,7 @@ h2{
 
 .tarjeta{
 	border-radius: 30px;
+	overflow: hidden;
 	gap: 40px;
 	grid-gap: 40px;
 }
